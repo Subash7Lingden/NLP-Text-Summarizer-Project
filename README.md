@@ -10,3 +10,10 @@
 7. Upddate the main.py
 8. Update app.py
 
+
+```bash
+conda create -n textS python=3.8 -y
+
+conda activate textS
+```
+
